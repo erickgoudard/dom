@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #019be2;
+    color: rgb(235, 6, 6);
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.game {
+    background: #00afa6;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+input,button {
+    padding: 10px;
+    margin: 5px;
+}
+
